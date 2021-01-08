@@ -1,4 +1,4 @@
-# confluence full on docker
+# Atlassian confluence full on docker
 
 docker volume create --name confluence
 
